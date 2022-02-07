@@ -70,3 +70,10 @@ function onSortFilter(sortBy) {
   setSort(sortBy);
   renderTodos();
 }
+
+//To update git hub:
+
+//git status
+//git add .
+//git commit -m "second commit"
+//git push
